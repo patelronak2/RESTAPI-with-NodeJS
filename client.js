@@ -1,10 +1,4 @@
 /**
-	StAuth10065: I Ronak Patel, 000744055 certify that this material is my original work. 
-	No other person's work has been used without due acknowledgment. 
-	I have not made my work available to anyone else.
-**/
-
-/**
 	NOTE: In order to get the correct result, database needs to be reset first.
 	
 	Run server.js freshly before running this file.
